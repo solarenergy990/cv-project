@@ -377,7 +377,7 @@ img {
 }
 
 .sidebar {
-  background: #22272c;
+  background: #1e2939;
   min-width: 320px;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -454,11 +454,11 @@ img {
   font-size: 12px;
   font-weight: 400;
   line-height: 2;
-  color: #ffaf02;
+  color: #ff6b08;
 }
 
 .info-mob .profession-divider-mob {
-  color: #ffaf02;
+  color: #ff6b08;
 }
 
 .contacts-container {
@@ -496,7 +496,7 @@ img {
           align-items: center;
   margin-bottom: 5px;
   text-decoration: none;
-  color: #ffaf02;
+  color: #ff6b08;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.5;
@@ -537,7 +537,7 @@ img {
 
 .contacts-link:hover .icon,
 .contacts-link:focus .icon {
-  fill: #ffaf02;
+  fill: #ff6b08;
 }
 
 .contacts-link-type {
@@ -556,7 +556,7 @@ img {
 }
 
 .contacts-link-type:hover, .contacts-link-type:focus {
-  color: #ffaf02;
+  color: #ff6b08;
   cursor: pointer;
 }
 
@@ -574,7 +574,7 @@ img {
 .skills-item {
   margin-left: 20px;
   margin-bottom: 4px;
-  color: #ffaf02;
+  color: #ff6b08;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.5;
@@ -668,7 +668,7 @@ img {
   font-size: 12px;
   font-weight: 400;
   line-height: 2;
-  color: #ffaf02;
+  color: #ff6b08;
 }
 
 .profession-time {
@@ -697,7 +697,7 @@ img {
 }
 
 .projects-item .projects-link {
-  color: #ffaf02;
+  color: #ff6b08;
   font-size: 16px;
   font-weight: 700;
   line-height: 1.5;
@@ -790,7 +790,7 @@ img {
 }
 
 .profession-company {
-  color: #ffaf02;
+  color: #ff6b08;
   text-decoration: none;
   -webkit-transition-property: font-size;
   transition-property: font-size;
@@ -809,7 +809,7 @@ img {
 }
 
 .profession-divider-personal {
-  color: #ffaf02;
+  color: #ff6b08;
 }
 
 .profession-duties {
@@ -828,7 +828,7 @@ img {
 .education-company {
   margin-top: 10px;
   margin-bottom: 5px;
-  color: #ffaf02;
+  color: #ff6b08;
   font-size: 16px;
   font-weight: 700;
   line-height: 1.5;
