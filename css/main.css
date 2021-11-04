@@ -377,7 +377,7 @@ img {
 }
 
 .sidebar {
-  background: #1d466c;
+  background: #22272c;
   min-width: 320px;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -454,11 +454,11 @@ img {
   font-size: 12px;
   font-weight: 400;
   line-height: 2;
-  color: #b17f83;
+  color: #ffaf02;
 }
 
 .info-mob .profession-divider-mob {
-  color: #b17f83;
+  color: #ffaf02;
 }
 
 .contacts-container {
@@ -496,14 +496,14 @@ img {
           align-items: center;
   margin-bottom: 5px;
   text-decoration: none;
-  color: #b17f83;
+  color: #ffaf02;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.5;
   -webkit-transition-property: font-weight;
   transition-property: font-weight;
-  -webkit-transition-duration: 3000ms;
-          transition-duration: 3000ms;
+  -webkit-transition-duration: 300ms;
+          transition-duration: 300ms;
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -529,15 +529,15 @@ img {
   fill: #d6d8db;
   -webkit-transition-property: fill;
   transition-property: fill;
-  -webkit-transition-duration: 3000ms;
-          transition-duration: 3000ms;
+  -webkit-transition-duration: 300ms;
+          transition-duration: 300ms;
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .contacts-link:hover .icon,
 .contacts-link:focus .icon {
-  fill: #b17f83;
+  fill: #ffaf02;
 }
 
 .contacts-link-type {
@@ -549,14 +549,14 @@ img {
   font-weight: 700;
   -webkit-transition-property: color;
   transition-property: color;
-  -webkit-transition-duration: 3000ms;
-          transition-duration: 3000ms;
+  -webkit-transition-duration: 300ms;
+          transition-duration: 300ms;
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .contacts-link-type:hover, .contacts-link-type:focus {
-  color: #b17f83;
+  color: #ffaf02;
   cursor: pointer;
 }
 
@@ -574,7 +574,7 @@ img {
 .skills-item {
   margin-left: 20px;
   margin-bottom: 4px;
-  color: #b17f83;
+  color: #ffaf02;
   font-size: 14px;
   font-weight: 400;
   line-height: 1.5;
@@ -668,7 +668,7 @@ img {
   font-size: 12px;
   font-weight: 400;
   line-height: 2;
-  color: #b17f83;
+  color: #ffaf02;
 }
 
 .profession-time {
@@ -697,15 +697,15 @@ img {
 }
 
 .projects-item .projects-link {
-  color: #b17f83;
+  color: #ffaf02;
   font-size: 16px;
   font-weight: 700;
   line-height: 1.5;
   text-decoration: none;
   -webkit-transition-property: font-size;
   transition-property: font-size;
-  -webkit-transition-duration: 3000ms;
-          transition-duration: 3000ms;
+  -webkit-transition-duration: 300ms;
+          transition-duration: 300ms;
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -790,12 +790,12 @@ img {
 }
 
 .profession-company {
-  color: #b17f83;
+  color: #ffaf02;
   text-decoration: none;
   -webkit-transition-property: font-size;
   transition-property: font-size;
-  -webkit-transition-duration: 3000ms;
-          transition-duration: 3000ms;
+  -webkit-transition-duration: 300ms;
+          transition-duration: 300ms;
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -809,7 +809,7 @@ img {
 }
 
 .profession-divider-personal {
-  color: #b17f83;
+  color: #ffaf02;
 }
 
 .profession-duties {
@@ -828,15 +828,15 @@ img {
 .education-company {
   margin-top: 10px;
   margin-bottom: 5px;
-  color: #b17f83;
+  color: #ffaf02;
   font-size: 16px;
   font-weight: 700;
   line-height: 1.5;
   text-decoration: none;
   -webkit-transition-property: font-size;
   transition-property: font-size;
-  -webkit-transition-duration: 3000ms;
-          transition-duration: 3000ms;
+  -webkit-transition-duration: 300ms;
+          transition-duration: 300ms;
   -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
           transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
