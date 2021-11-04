@@ -33,10 +33,10 @@ body {
   padding-top: 110px;
   padding-bottom: 40px;
 }
-.contcts-container {
-  margin-top: 60px;
-  margin-left: 40px;
-  margin-right: 40px;
+.contacts-container {
+  padding-top: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 .contacts-title {
   color: #ffffff;
@@ -45,8 +45,8 @@ body {
   line-height: 24px;
   margin-bottom: 20px;
 }
-/*devided just to make phone number without underline*/
-.contakt-phone {
+
+.contact-phone {
   color: #59616c;
   font-size: 14px;
   font-weight: 400;
